@@ -1,6 +1,6 @@
 # Shopware 6 Plugin: `/backend` &rarr; `/admin`
 
-A small helper for those who just can't get used to type `/admin` when you want to get to the backend (yes!) in Shopware 6.
+A small helper for those who just can't get used to type `/admin` when you want to get to administration in Shopware 6.
 
 And no, it is not meant to be taken seriously.
 
